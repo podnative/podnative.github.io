@@ -41,4 +41,4 @@ Disallow: /
 User-agent: facebookexternalhit
 Disallow: /
 
-Sitemap: https://podnative.com/sitemap.xml
+Sitemap: https://www.podnative.com/sitemap.xml
